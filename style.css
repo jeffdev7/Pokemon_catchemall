@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(poke-cover.jpg);
+    
+}
+.title{
+    position: absolute;
+    left:30%;
+}
+.container{
+    position:absolute;
+    left:42%;
+    top:17rem;
+    display:inline-block;
+}
+.nome{
+    background-color: rgb(235, 54, 54);
+    width:200px;
+    height:200px;
+    border-radius: 110%;
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    
+}
+.button{
+    position:absolute;
+    top:45%;
+    left:12%;
+    height:200px;
+    width:200px;
+    
+    
+}
